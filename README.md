@@ -1,2 +1,5 @@
 # hello-world
-V.1
+
+Hi Heidi
+
+I hope to learn something to accelerate data analysis & excel efficiency
